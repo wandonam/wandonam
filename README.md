@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wandonam
+- 👋 Hi, I’m @wandonam and Online MD
 - 👀 I’m interested in crawling, automation, streamlit
 - 🌱 I’m currently learning AI, Big Data, Data Science, Python
 - 💞️ I’m looking to collaborate on brand that trust data
