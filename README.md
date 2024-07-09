@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wandonam and Online MD
-- 👀 I’m interested in crawling, automation, streamlit
+- 👀 I’m interested in Crawling, Automation, Visualization
 - 🌱 I’m currently learning AI, Big Data, Data Science, Python
 - 💞️ I’m looking to collaborate on brand that trust data
 - 📫 How to reach me e-mail: csjoon91@naver.com
