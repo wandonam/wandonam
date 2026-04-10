@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wandonam and Brand MD
+- 👋 Hi, I’m @wandonam and BM
 - 👀 I’m interested in Crawling, Automation, Visualization
 - 🌱 I’m currently learning AI, Big Data, Data Science, Python
 - 💞️ I’m looking to collaborate on brand that trust data
